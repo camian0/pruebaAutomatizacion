@@ -1,10 +1,11 @@
 {
-  "name": "RPA",
+  "name": "project-RPA",
   "version": "1.0.0",
   "description": "Prueba de funcionamiento de rpa con github actions",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "test": "echo \"Error: no se han definidos los test aún\" && exit 0"
   },
   "author": "Tu Nombre",
   "license": "MIT",
