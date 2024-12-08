@@ -1,6 +1,14 @@
 {
+  "name": "RPA",
+  "version": "1.0.0",
+  "description": "Prueba de funcionamiento de rpa con github actions",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
   "devDependencies": {
-    "@eslint/js": "^9.16.0",
     "eslint": "^9.16.0",
     "globals": "^15.13.0"
   }
